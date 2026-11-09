@@ -1,7 +1,7 @@
 # Hi there, I'm Dmitry 👋
 
 ## About Me
-I am an aspiring Fullstack Web Developer, currently learning everything about Frontend and Backend technologies.
+I am a Fullstack Web Developer, currently learning everything about Frontend and Backend technologies.
 
 ### Languages and Tools 🛠 
 
